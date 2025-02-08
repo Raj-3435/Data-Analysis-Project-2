@@ -58,9 +58,8 @@ The dataset used for this analysis is **Ecommerce Purchases.csv**, containing th
 ## 📁 Project Structure  
 ```bash
 ├── ecommerce_analysis.ipynb  # Jupyter Notebook with the analysis
-├── Ecommerce Purchases.csv   # Dataset file
+├── Ecommerce Purchases       # Dataset file
 ├── README.md                 # Project documentation
-├── requirements.txt          # Required dependencies
 
 ```
 
